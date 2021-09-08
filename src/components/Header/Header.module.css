@@ -1,0 +1,8 @@
+.header__container{
+    display: flex;
+    background-color: blueviolet;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 10vh;
+}
